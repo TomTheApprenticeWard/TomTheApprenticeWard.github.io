@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://tomtheapprenticeward.github.io/blog/</loc>
-    <lastmod>2020-04-03T05:09:25-06:00</lastmod>
+    <lastmod>2020-04-03T05:13:06-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -18,13 +18,13 @@
   </url>
   
   <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/corrected/</loc>
-    <lastmod>2020-04-03T05:09:25-06:00</lastmod>
+    <loc>https://tomtheapprenticeward.github.io/blog/image_link/</loc>
+    <lastmod>2020-04-03T05:13:06-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://tomtheapprenticeward.github.io/</loc>
-    <lastmod>2020-04-03T05:09:25-06:00</lastmod>
+    <lastmod>2020-04-03T05:13:06-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -70,6 +70,11 @@
                 hreflang="en"
                 href="https://tomtheapprenticeward.github.io/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/blog/corrected/</loc>
+    <lastmod>2020-04-03T05:09:25-06:00</lastmod>
   </url>
   
   <url>
@@ -375,10 +380,6 @@
                 hreflang="en"
                 href="https://tomtheapprenticeward.github.io/about/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/image_link/</loc>
   </url>
   
   <url>

@@ -6,10 +6,20 @@
     <description>Recent content on Ring World Explorer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 01:56:18 -0600</lastBuildDate>
     
 	<atom:link href="https://tomtheapprenticeward.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hi_world</title>
+      <link>https://tomtheapprenticeward.github.io/blog/hi_world/</link>
+      <pubDate>Fri, 03 Apr 2020 01:56:18 -0600</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/blog/hi_world/</guid>
+      <description>#hi world
+this is a test</description>
+    </item>
     
     <item>
       <title>Markdown Syntax Guide</title>

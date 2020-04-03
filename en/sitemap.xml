@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://tomtheapprenticeward.github.io/blog/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-03T01:56:18-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -14,6 +14,61 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://tomtheapprenticeward.github.io/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/blog/hi_world/</loc>
+    <lastmod>2020-04-03T01:56:18-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/</loc>
+    <lastmod>2020-04-03T01:56:18-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://tomtheapprenticeward.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://tomtheapprenticeward.github.io/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://tomtheapprenticeward.github.io/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tomtheapprenticeward.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://tomtheapprenticeward.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://tomtheapprenticeward.github.io/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://tomtheapprenticeward.github.io/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://tomtheapprenticeward.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tomtheapprenticeward.github.io/"
                 />
   </url>
   
@@ -124,56 +179,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://tomtheapprenticeward.github.io/blog/markdown-syntax/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://tomtheapprenticeward.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://tomtheapprenticeward.github.io/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://tomtheapprenticeward.github.io/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://tomtheapprenticeward.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://tomtheapprenticeward.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://tomtheapprenticeward.github.io/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://tomtheapprenticeward.github.io/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tomtheapprenticeward.github.io/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomtheapprenticeward.github.io/"
                 />
   </url>
   

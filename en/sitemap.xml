@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/a_new_day/</loc>
-    <lastmod>2020-04-03T02:19:43-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tomtheapprenticeward.github.io/blog/</loc>
-    <lastmod>2020-04-03T02:19:43-06:00</lastmod>
+    <lastmod>2020-04-03T02:55:31-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -24,7 +19,7 @@
   
   <url>
     <loc>https://tomtheapprenticeward.github.io/</loc>
-    <lastmod>2020-04-03T02:19:43-06:00</lastmod>
+    <lastmod>2020-04-03T02:55:31-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -70,6 +65,16 @@
                 hreflang="en"
                 href="https://tomtheapprenticeward.github.io/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/blog/second/</loc>
+    <lastmod>2020-04-03T02:55:31-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/blog/a_new_day/</loc>
+    <lastmod>2020-04-03T02:19:43-06:00</lastmod>
   </url>
   
   <url>

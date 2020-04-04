@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ring World Explorer</title>
+    <link>https://tomtheapprenticeward.github.io/</link>
+    <description>Recent content on Ring World Explorer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Apr 2020 05:13:06 -0600</lastBuildDate>
+    
+	<atom:link href="https://tomtheapprenticeward.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>image link</title>
+      <link>https://tomtheapprenticeward.github.io/blog/image_link/</link>
+      <pubDate>Fri, 03 Apr 2020 05:13:06 -0600</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/blog/image_link/</guid>
+      <description>there is an issue with this file.
+this is an image link </description>
+    </item>
+    
+    <item>
+      <title>corrected</title>
+      <link>https://tomtheapprenticeward.github.io/blog/corrected/</link>
+      <pubDate>Fri, 03 Apr 2020 05:09:25 -0600</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/blog/corrected/</guid>
+      <description>the datetime problem has hopefully been corrected</description>
+    </item>
+    
+    <item>
+      <title>faster</title>
+      <link>https://tomtheapprenticeward.github.io/blog/faster/</link>
+      <pubDate>Fri, 03 Apr 2020 03:56:35 -0600</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/blog/faster/</guid>
+      <description>This should have been created faster</description>
+    </item>
+    
+    <item>
+      <title>another test</title>
+      <link>https://tomtheapprenticeward.github.io/blog/another_test/</link>
+      <pubDate>Fri, 03 Apr 2020 03:26:31 -0600</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/blog/another_test/</guid>
+      <description>maybe the final test for today?</description>
+    </item>
+    
+    <item>
+      <title>phone post</title>
+      <link>https://tomtheapprenticeward.github.io/blog/phone_post/</link>
+      <pubDate>Fri, 03 Apr 2020 03:26:31 -0600</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/blog/phone_post/</guid>
+      <description>This post was created from my phone in the store</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>https://tomtheapprenticeward.github.io/blog/second/</link>
+      <pubDate>Fri, 03 Apr 2020 02:55:31 -0600</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/blog/second/</guid>
+      <description>uploaded using a script on the raspberry pi</description>
+    </item>
+    
+    <item>
+      <title>Dinosaurs</title>
+      <link>https://tomtheapprenticeward.github.io/blog/dinosaurs/</link>
+      <pubDate>Fri, 03 Apr 2020 02:05:11 -0600</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/blog/dinosaurs/</guid>
+      <description>dinosaurs are awesome</description>
+    </item>
+    
+    <item>
+      <title>Hi_world</title>
+      <link>https://tomtheapprenticeward.github.io/blog/hi_world/</link>
+      <pubDate>Fri, 03 Apr 2020 01:56:18 -0600</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/blog/hi_world/</guid>
+      <description>#hi world
+this is a test</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://tomtheapprenticeward.github.io/blog/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/blog/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://tomtheapprenticeward.github.io/blog/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/blog/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://tomtheapprenticeward.github.io/blog/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/blog/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://tomtheapprenticeward.github.io/blog/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/blog/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>https://tomtheapprenticeward.github.io/contact/_index.br/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/contact/_index.br/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>laptop content</title>
+      <link>https://tomtheapprenticeward.github.io/blog/from_laptop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/blog/from_laptop/</guid>
+      <description>created on my laptop. then edited. and edited again.</description>
+    </item>
+    
+    <item>
+      <title>laptop test</title>
+      <link>https://tomtheapprenticeward.github.io/blog/laptop_test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/blog/laptop_test/</guid>
+      <description>let&amp;rsquo;s see if this works. there maybe an issue with ghost writer combined with autokey.</description>
+    </item>
+    
+  </channel>
+</rss>

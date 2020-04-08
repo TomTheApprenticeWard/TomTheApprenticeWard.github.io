@@ -3,81 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tomtheapprenticeward.github.io/pl/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomtheapprenticeward.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://tomtheapprenticeward.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://tomtheapprenticeward.github.io/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://tomtheapprenticeward.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://tomtheapprenticeward.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://tomtheapprenticeward.github.io/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://tomtheapprenticeward.github.io/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tomtheapprenticeward.github.io/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://tomtheapprenticeward.github.io/pl/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/pl/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomtheapprenticeward.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://tomtheapprenticeward.github.io/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://tomtheapprenticeward.github.io/pt/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://tomtheapprenticeward.github.io/pl/about/"
-                />
-  </url>
-  
-  <url>
     <loc>https://tomtheapprenticeward.github.io/pl/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -137,6 +62,55 @@
                 rel="alternate"
                 hreflang="pl"
                 href="https://tomtheapprenticeward.github.io/pl/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/pl/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tomtheapprenticeward.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://tomtheapprenticeward.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://tomtheapprenticeward.github.io/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tomtheapprenticeward.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://tomtheapprenticeward.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://tomtheapprenticeward.github.io/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://tomtheapprenticeward.github.io/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://tomtheapprenticeward.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://tomtheapprenticeward.github.io/pl/"
                 />
   </url>
   

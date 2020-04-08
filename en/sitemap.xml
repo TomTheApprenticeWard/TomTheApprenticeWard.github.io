@@ -4,152 +4,12 @@
   
   <url>
     <loc>https://tomtheapprenticeward.github.io/blog/</loc>
-    <lastmod>2020-04-04T12:54:04-06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://tomtheapprenticeward.github.io/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomtheapprenticeward.github.io/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/</loc>
-    <lastmod>2020-04-04T12:54:04-06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://tomtheapprenticeward.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://tomtheapprenticeward.github.io/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://tomtheapprenticeward.github.io/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://tomtheapprenticeward.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://tomtheapprenticeward.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://tomtheapprenticeward.github.io/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://tomtheapprenticeward.github.io/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tomtheapprenticeward.github.io/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomtheapprenticeward.github.io/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/2020-04-04_6/markdown/</loc>
-    <lastmod>2020-04-04T12:54:04-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/2020-04-04_5/markdown/</loc>
-    <lastmod>2020-04-04T12:44:34-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/2020-04-04_3/markdown/</loc>
-    <lastmod>2020-04-04T12:36:05-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/2020-04-04-3/a/</loc>
-    <lastmod>2020-04-04T03:28:47-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/2020-04-04_2/a/</loc>
-    <lastmod>2020-04-04T03:12:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/2020-04-04/text/</loc>
-    <lastmod>2020-04-04T02:56:45-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/2020-04-04_2/</loc>
-    <lastmod>2020-04-04T02:16:12-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/2020-04-04/</loc>
-    <lastmod>2020-04-04T01:32:30-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/image_link/</loc>
-    <lastmod>2020-04-03T05:13:06-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/corrected/</loc>
-    <lastmod>2020-04-03T05:09:25-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/faster/</loc>
-    <lastmod>2020-04-03T03:56:35-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/another_test/</loc>
-    <lastmod>2020-04-03T03:26:31-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/phone_post/</loc>
-    <lastmod>2020-04-03T03:26:31-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/second/</loc>
-    <lastmod>2020-04-03T02:55:31-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/dinosaurs/</loc>
-    <lastmod>2020-04-03T02:05:11-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/hi_world/</loc>
-    <lastmod>2020-04-03T01:56:18-06:00</lastmod>
+    <lastmod>2020-01-29T05:15:03+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://tomtheapprenticeward.github.io/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-29T05:15:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -198,83 +58,406 @@
   </url>
   
   <url>
-    <loc>https://tomtheapprenticeward.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2020/01/28/how-it-took-1-2-hours-to-install-a-good-version-of-wordpress-on-my-phone-real-world-example-of-murphys-law/</loc>
+    <lastmod>2020-01-29T05:15:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/categories/uncategorized/</loc>
+    <lastmod>2020-01-29T05:15:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2020/01/10/when-celsius-meets-fahrenheit/</loc>
+    <lastmod>2020-01-10T12:26:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2020/01/02/8x-aa-battery-batteries-bulk-nickel-hydride-rechargeable-ni-mh-3000mah-1-2v-yellow/</loc>
+    <lastmod>2020-01-03T04:35:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2020/01/01/320/</loc>
+    <lastmod>2020-01-01T22:42:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/12/12/rabbit-and-mushroom/</loc>
+    <lastmod>2019-12-13T04:28:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/12/12/spongebob-show-title-all-you-need-is-squidward/</loc>
+    <lastmod>2019-12-12T09:57:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/12/11/double-exposure/</loc>
+    <lastmod>2019-12-12T01:21:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/12/02/rio-de-janeiro/</loc>
+    <lastmod>2019-12-03T01:24:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/10/15/empire-minecraft-server/</loc>
+    <lastmod>2019-10-16T01:27:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/10/11/triggore/</loc>
+    <lastmod>2019-10-12T05:10:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/10/02/ecg-viewer-manager-on-linux/</loc>
+    <lastmod>2019-10-02T06:37:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/09/30/ubuntu-wishlist/</loc>
+    <lastmod>2019-09-30T21:03:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/09/29/paste-image-directly-from-the-clipboard-into-a-directory-on-linux/</loc>
+    <lastmod>2019-09-29T18:49:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/09/16/horse-sculpture-at-the-denver-art-museum/</loc>
+    <lastmod>2019-09-16T16:13:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/09/13/things-i-wish-i-would-have-known-as-a-child/</loc>
+    <lastmod>2019-09-14T02:09:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/08/21/gordon-ramsay-pray-to-the/</loc>
+    <lastmod>2019-08-21T07:18:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/07/19/we-need-a-safer-systems-programming-language-microsoft-security-response-center/</loc>
+    <lastmod>2019-07-19T08:21:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/07/16/watch-the-big-baboon-on-youtube/</loc>
+    <lastmod>2019-07-17T00:22:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/06/25/warning-about-the-electrum-bitcoin-app/</loc>
+    <lastmod>2019-06-26T00:06:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/06/25/good-news-about-gimp/</loc>
+    <lastmod>2019-06-25T10:31:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/06/22/ant-painting/</loc>
+    <lastmod>2019-06-22T20:09:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/06/17/send-random-things-to-my-mailing-address/</loc>
+    <lastmod>2019-06-17T18:20:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/06/15/my-sleep-schedule-over-the-past-week/</loc>
+    <lastmod>2019-06-15T17:47:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/05/27/song-dont-lock-me-out/</loc>
+    <lastmod>2019-05-28T03:42:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/05/19/michael-cremo-forbidden-archaeology-talks-at-google-on-youtube/</loc>
+    <lastmod>2019-05-19T18:44:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/05/15/neverend-the-madpix-project/</loc>
+    <lastmod>2019-05-16T05:20:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/05/15/watch-out-for-knock-off-graphics-cards-on-ebay/</loc>
+    <lastmod>2019-05-15T06:19:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/05/14/this-x-does-not-exist/</loc>
+    <lastmod>2019-05-15T03:25:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/05/14/the-future-of-portable-computers/</loc>
+    <lastmod>2019-05-14T08:52:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/05/11/old-wood/</loc>
+    <lastmod>2019-05-12T00:11:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/05/11/springtime-in-colorado/</loc>
+    <lastmod>2019-05-12T00:11:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/05/10/trump-meme-youre-fired/</loc>
+    <lastmod>2019-05-10T06:43:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/05/09/the-reason-i-switched-from-unity-to-godot/</loc>
+    <lastmod>2019-05-09T23:06:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/05/09/it-is-in-the-best-interests-of-post-office-workers-to-process-as-little-mail-as-possible/</loc>
+    <lastmod>2019-05-09T22:50:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/05/09/there-is-a-need-for-public-areas-to-take-naps/</loc>
+    <lastmod>2019-05-09T22:28:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/04/29/universal-basic-income-vs-reproductive-rights/</loc>
+    <lastmod>2019-04-29T22:00:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/04/28/making-it-easier-for-people-to-do-what-they-are-good-at/</loc>
+    <lastmod>2019-04-28T20:03:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/04/26/fence-line/</loc>
+    <lastmod>2019-04-26T22:21:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/04/26/a-mostly-complete-serated-arrowhead-i-found-in-the-forest/</loc>
+    <lastmod>2019-04-26T21:23:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/04/26/purple-flowers/</loc>
+    <lastmod>2019-04-26T20:57:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/04/23/have-your-computer-make-a-sound-whenever-the-contents-of-the-clipboard-change/</loc>
+    <lastmod>2019-04-24T03:43:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/04/13/watch-depression-the-truth-about-depression-that-no-one-sees-or-understands-on-youtube/</loc>
+    <lastmod>2019-04-13T19:47:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/04/12/fractal-lab/</loc>
+    <lastmod>2019-04-13T01:19:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/04/05/windstorm-mod-for-minetest/</loc>
+    <lastmod>2019-04-06T05:47:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/04/05/lightning-mod-for-minetest/</loc>
+    <lastmod>2019-04-05T22:57:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/04/02/anne-of-green-gables-s1e2/</loc>
+    <lastmod>2019-04-02T22:19:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/04/02/grizzly-bear/</loc>
+    <lastmod>2019-04-02T06:05:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/27/words-that-only-contain-letters-from-the-first-half-of-the-alphabet-a-m-and-are-at-least-12-letters-long/</loc>
+    <lastmod>2019-03-27T07:56:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/27/words-that-start-with-a-and-end-with-z/</loc>
+    <lastmod>2019-03-27T07:44:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/27/words-that-begin-and-end-with-ch/</loc>
+    <lastmod>2019-03-27T07:32:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/27/words-that-contain-three-or-more-hyphens/</loc>
+    <lastmod>2019-03-27T07:29:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/27/words-that-contain-at-least-11-vowels/</loc>
+    <lastmod>2019-03-27T07:25:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/27/words-that-contain-at-least-six-es/</loc>
+    <lastmod>2019-03-27T07:03:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/27/words-that-contain-abc/</loc>
+    <lastmod>2019-03-27T06:57:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/27/words-that-contain-at-least-two-double-ts-tt-tt/</loc>
+    <lastmod>2019-03-27T06:55:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/27/words-that-contain-the-word-apple/</loc>
+    <lastmod>2019-03-27T06:51:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/27/words-that-contain-the-word-trump/</loc>
+    <lastmod>2019-03-27T06:39:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/27/words-that-contain-at-least-five-as/</loc>
+    <lastmod>2019-03-27T06:34:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/27/lothlorien-in-minetest/</loc>
+    <lastmod>2019-03-27T06:19:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/about/</loc>
+    <lastmod>2019-03-26T01:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/</loc>
+    <lastmod>2019-03-26T01:31:48+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tomtheapprenticeward.github.io/fr/tags/css/"
+                href="https://tomtheapprenticeward.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://tomtheapprenticeward.github.io/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://tomtheapprenticeward.github.io/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tomtheapprenticeward.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://tomtheapprenticeward.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://tomtheapprenticeward.github.io/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://tomtheapprenticeward.github.io/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://tomtheapprenticeward.github.io/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tomtheapprenticeward.github.io/tags/css/"
+                href="https://tomtheapprenticeward.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://tomtheapprenticeward.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://tomtheapprenticeward.github.io/fr/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomtheapprenticeward.github.io/tags/html/"
-                />
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/25/the-sand-canyon-area/</loc>
+    <lastmod>2019-03-26T01:21:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomtheapprenticeward.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://tomtheapprenticeward.github.io/fr/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomtheapprenticeward.github.io/tags/markdown/"
-                />
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/25/words-that-begin-and-end-with-th/</loc>
+    <lastmod>2019-03-25T20:24:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://tomtheapprenticeward.github.io/fr/blog/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomtheapprenticeward.github.io/blog/markdown-syntax/"
-                />
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/24/yellow-lichen-at-40x/</loc>
+    <lastmod>2019-03-25T03:42:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomtheapprenticeward.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://tomtheapprenticeward.github.io/fr/categories/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomtheapprenticeward.github.io/categories/syntax/"
-                />
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/24/lichen-at-100x/</loc>
+    <lastmod>2019-03-25T03:29:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/24/lichen-at-40x/</loc>
+    <lastmod>2019-03-25T03:25:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/23/decomposed-leaf-at-40x/</loc>
+    <lastmod>2019-03-24T02:19:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/22/my-base-so-far-on-minetest/</loc>
+    <lastmod>2019-03-23T02:59:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/index.php/2019/03/22/dried-catnip-at-40x/</loc>
+    <lastmod>2019-03-23T00:21:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomtheapprenticeward.github.io/contact/_index.br/</loc>
   </url>
   
   <url>
     <loc>https://tomtheapprenticeward.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -320,128 +503,6 @@
                 hreflang="en"
                 href="https://tomtheapprenticeward.github.io/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://tomtheapprenticeward.github.io/fr/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomtheapprenticeward.github.io/tags/themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://tomtheapprenticeward.github.io/fr/categories/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomtheapprenticeward.github.io/categories/themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://tomtheapprenticeward.github.io/fr/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomtheapprenticeward.github.io/tags/emoji/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://tomtheapprenticeward.github.io/fr/blog/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomtheapprenticeward.github.io/blog/emoji-support/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://tomtheapprenticeward.github.io/pl/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://tomtheapprenticeward.github.io/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://tomtheapprenticeward.github.io/pt/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomtheapprenticeward.github.io/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/contact/_index.br/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/from_laptop/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tomtheapprenticeward.github.io/blog/laptop_test/</loc>
   </url>
   
 </urlset>

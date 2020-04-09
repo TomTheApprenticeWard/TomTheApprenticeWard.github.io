@@ -5,11 +5,21 @@
     <link>https://tomtheapprenticeward.github.io/</link>
     <description>Recent content on Ring World Explorer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
+    <copyright>Creative Commons Attribution-ShareAlike 4.0 International License</copyright>
     <lastBuildDate>Tue, 26 Mar 2019 01:31:48 +0000</lastBuildDate>
     
 	<atom:link href="https://tomtheapprenticeward.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fritz_Haber</title>
+      <link>https://tomtheapprenticeward.github.io/posts/fritz_haber/</link>
+      <pubDate>Wed, 08 Apr 2020 21:57:35 -0600</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/posts/fritz_haber/</guid>
+      <description>Fritz_Haber</description>
+    </item>
     
     <item>
       <title>How It Took 1-2 Hours To Install A Good Version Of WordPress On My Phone (Real World Example Of Murphys Law)</title>
@@ -26,7 +36,7 @@
       <pubDate>Fri, 10 Jan 2020 12:26:11 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2020/01/10/when-celsius-meets-fahrenheit/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -36,7 +46,7 @@
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2020/01/02/8x-aa-battery-batteries-bulk-nickel-hydride-rechargeable-ni-mh-3000mah-1-2v-yellow/</guid>
       <description>Stay away from these batteries. I bought them on eBay. I only used them a few times before they would hold hardly any charge and I have now thrown many of them away.
-They are much lighter in weight than what you would expect. I have a theory (but no proof) that they are partly alkaline batteries so maybe they work initially, but they don’t keep working after many recharges. However, I’m not sure if that is possible or not.</description>
+They are much lighter in weight than what you would expect. I have a theory (but no proof) that they are partly alkaline batteries so maybe they work initially, but they don’t keep working after many recharges.</description>
     </item>
     
     <item>
@@ -54,7 +64,7 @@ They are much lighter in weight than what you would expect. I have a theory (but
       <pubDate>Fri, 13 Dec 2019 04:28:33 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/12/12/rabbit-and-mushroom/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -63,7 +73,7 @@ They are much lighter in weight than what you would expect. I have a theory (but
       <pubDate>Thu, 12 Dec 2019 09:57:49 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/12/12/spongebob-show-title-all-you-need-is-squidward/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -72,7 +82,7 @@ They are much lighter in weight than what you would expect. I have a theory (but
       <pubDate>Thu, 12 Dec 2019 01:21:54 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/12/11/double-exposure/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -81,7 +91,7 @@ They are much lighter in weight than what you would expect. I have a theory (but
       <pubDate>Tue, 03 Dec 2019 01:24:46 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/12/02/rio-de-janeiro/</guid>
-      <description></description>
+      <description> #blocktober</description>
     </item>
     
     <item>
@@ -128,9 +138,10 @@ Unfortunately, the game was too hard for me and I wasn’t able to survive for m
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/09/29/paste-image-directly-from-the-clipboard-into-a-directory-on-linux/</guid>
       <description>download this file and put it somewhere convenient
-rename the file to “paste_image_into_directory.sh”
+paste_image_into_directory.sh rename the file to “paste_image_into_directory.sh”
 make sure you have the nautilus FileManager Actions software installed as well as xclip
-In FileManager Actions create an entry that looks like this:In “Parameters” put “location/to/file.sh” %f
+In FileManager Actions create an entry that looks like this:
+In “Parameters” put “location/to/file.sh” %f
 To use the script, right click on a directory in nautilus and then select your FileManager action</description>
     </item>
     
@@ -140,7 +151,7 @@ To use the script, right click on a directory in nautilus and then select your F
       <pubDate>Mon, 16 Sep 2019 16:13:55 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/09/16/horse-sculpture-at-the-denver-art-museum/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -149,7 +160,7 @@ To use the script, right click on a directory in nautilus and then select your F
       <pubDate>Sat, 14 Sep 2019 02:09:50 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/09/13/things-i-wish-i-would-have-known-as-a-child/</guid>
-      <description></description>
+      <description> Things I Wish I Would Have Known as a Child </description>
     </item>
     
     <item>
@@ -204,7 +215,7 @@ Layer effects and other nondestructive editing should make Gimp a viable alterna
       <pubDate>Sat, 22 Jun 2019 20:09:49 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/06/22/ant-painting/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -290,7 +301,7 @@ A showcase of websites that use AI in interesting ways.</description>
       <pubDate>Sun, 12 May 2019 00:11:59 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/05/11/old-wood/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -299,7 +310,7 @@ A showcase of websites that use AI in interesting ways.</description>
       <pubDate>Sun, 12 May 2019 00:11:23 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/05/11/springtime-in-colorado/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -308,7 +319,7 @@ A showcase of websites that use AI in interesting ways.</description>
       <pubDate>Fri, 10 May 2019 06:43:30 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/05/10/trump-meme-youre-fired/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -390,7 +401,8 @@ A showcase of websites that use AI in interesting ways.</description>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/04/23/have-your-computer-make-a-sound-whenever-the-contents-of-the-clipboard-change/</guid>
       <description>Note: this has only been tested on Ubuntu 18.04
-Steps  make sure sox is installed:   download the file below add the following command to your startup applications:   of course change “/path/to/file” to the correct value for your computer restart your computer  Now every time the contents of your computer’s clipboard changes your computer should play a sound.</description>
+Steps  make sure sox is installed:   download the file below add the following command to your startup applications:   of course change “/path/to/file” to the correct value for your computer restart your computer  Now every time the contents of your computer’s clipboard changes your computer should play a sound.
+notify_on_clipboard_change </description>
     </item>
     
     <item>
@@ -417,7 +429,8 @@ Steps  make sure sox is installed:   download the file below add the following c
       <pubDate>Sat, 06 Apr 2019 05:47:41 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/04/05/windstorm-mod-for-minetest/</guid>
-      <description>Creates a windstorm at random intervals (up to 30 minutes). Blocks can be thrown through the air. Occasionally the player will be lifted off the ground.  This mod was extracted from the mod afterearth by AiTechEye</description>
+      <description>  Creates a windstorm at random intervals (up to 30 minutes). Blocks can be thrown through the air. Occasionally the player will be lifted off the ground.  This mod was extracted from the mod afterearth by AiTechEye
+windstorm </description>
     </item>
     
     <item>
@@ -426,7 +439,8 @@ Steps  make sure sox is installed:   download the file below add the following c
       <pubDate>Fri, 05 Apr 2019 22:57:17 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/04/05/lightning-mod-for-minetest/</guid>
-      <description>I modified a lightning mod someone made and added lightning storms. You can download it here:</description>
+      <description>I modified a lightning mod someone made and added lightning storms. You can download it here:
+lightning </description>
     </item>
     
     <item>
@@ -444,7 +458,7 @@ Steps  make sure sox is installed:   download the file below add the following c
       <pubDate>Tue, 02 Apr 2019 06:05:40 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/04/02/grizzly-bear/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -575,7 +589,7 @@ Steps  make sure sox is installed:   download the file below add the following c
       <pubDate>Wed, 27 Mar 2019 06:19:22 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/03/27/lothlorien-in-minetest/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -586,7 +600,7 @@ Steps  make sure sox is installed:   download the file below add the following c
       <guid>https://tomtheapprenticeward.github.io/about/</guid>
       <description>Except where otherwise noted content on this site is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 Software on this site is licensed under a GPLv3 license
-Credits  Site icon by Locad  </description>
+Credits planet logo: Image by ipicgr from Pixabay </description>
     </item>
     
     <item>
@@ -595,7 +609,7 @@ Credits  Site icon by Locad  </description>
       <pubDate>Tue, 26 Mar 2019 01:21:32 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/03/25/the-sand-canyon-area/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -618,7 +632,7 @@ https://www.visca.com/regexdict/</description>
       <pubDate>Mon, 25 Mar 2019 03:42:30 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/03/24/yellow-lichen-at-40x/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -627,7 +641,7 @@ https://www.visca.com/regexdict/</description>
       <pubDate>Mon, 25 Mar 2019 03:29:03 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/03/24/lichen-at-100x/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -636,7 +650,7 @@ https://www.visca.com/regexdict/</description>
       <pubDate>Mon, 25 Mar 2019 03:25:38 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/03/24/lichen-at-40x/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -645,7 +659,7 @@ https://www.visca.com/regexdict/</description>
       <pubDate>Sun, 24 Mar 2019 02:19:02 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/03/23/decomposed-leaf-at-40x/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -654,7 +668,7 @@ https://www.visca.com/regexdict/</description>
       <pubDate>Sat, 23 Mar 2019 02:59:16 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/03/22/my-base-so-far-on-minetest/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -663,16 +677,7 @@ https://www.visca.com/regexdict/</description>
       <pubDate>Sat, 23 Mar 2019 00:21:21 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/03/22/dried-catnip-at-40x/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contato</title>
-      <link>https://tomtheapprenticeward.github.io/contact/_index.br/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tomtheapprenticeward.github.io/contact/_index.br/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
   </channel>

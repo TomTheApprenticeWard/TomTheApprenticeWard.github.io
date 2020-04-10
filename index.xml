@@ -13,12 +13,23 @@
     
     
     <item>
+      <title>Site migration</title>
+      <link>https://tomtheapprenticeward.github.io/posts/2020-04-09/</link>
+      <pubDate>Thu, 09 Apr 2020 08:31:54 -0600</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/posts/2020-04-09/</guid>
+      <description>I recently migrated this site from a WordPress website. The migration wasn&amp;rsquo;t perfect so there are some issues with image proportions and perhaps other issues as well.
+I am aware that the site title on mobile devices is not displaying properly. Unfortunately it will probably have to wait until the theme is updated or I install a new theme.</description>
+    </item>
+    
+    <item>
       <title>Fritz_Haber</title>
       <link>https://tomtheapprenticeward.github.io/posts/fritz_haber/</link>
       <pubDate>Wed, 08 Apr 2020 21:57:35 -0600</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/posts/fritz_haber/</guid>
-      <description>Fritz_Haber</description>
+      <description>Fritz_Haber
+Disclaimer: This document was an opportunity for me to practice typesetting. It&amp;rsquo;s presence here does not mean I am for or against any particular action of this individual.</description>
     </item>
     
     <item>
@@ -196,7 +207,8 @@ To use the script, right click on a directory in nautilus and then select your F
       <pubDate>Wed, 26 Jun 2019 00:06:52 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/06/25/warning-about-the-electrum-bitcoin-app/</guid>
-      <description>I tried to get the latest version of electrum and this is what I found. Two pieces of antivirus software found malware in electrum. It is a shame because electrum was such a good piece of software.</description>
+      <description>Note: this post is out of date and the information probably no longer applies.
+I tried to get the latest version of electrum and this is what I found. Two pieces of antivirus software found malware in electrum. It is a shame because electrum was such a good piece of software.</description>
     </item>
     
     <item>
@@ -216,19 +228,6 @@ Layer effects and other nondestructive editing should make Gimp a viable alterna
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/06/22/ant-painting/</guid>
       <description> </description>
-    </item>
-    
-    <item>
-      <title>Send random things to my mailing address</title>
-      <link>https://tomtheapprenticeward.github.io/index.php/2019/06/17/send-random-things-to-my-mailing-address/</link>
-      <pubDate>Mon, 17 Jun 2019 18:20:12 +0000</pubDate>
-      
-      <guid>https://tomtheapprenticeward.github.io/index.php/2019/06/17/send-random-things-to-my-mailing-address/</guid>
-      <description>If you have a random gift you want to send me, maybe something that is useful but that you want to get rid of for whatever reason, you can send it to my mailing address:
-Gift Delivery
-PO Box 376
-Pleasant View, CO 81331
-Obviously, don’t send anything illegal, explosive, or infectious. But most other things should be fine.</description>
     </item>
     
     <item>
@@ -609,7 +608,7 @@ Credits planet logo: Image by ipicgr from Pixabay </description>
       <pubDate>Tue, 26 Mar 2019 01:21:32 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/03/25/the-sand-canyon-area/</guid>
-      <description> </description>
+      <description>Right click on an image and click &amp;ldquo;Open image in new tab&amp;rdquo; to see it with the correct proportions.</description>
     </item>
     
     <item>
@@ -632,7 +631,7 @@ https://www.visca.com/regexdict/</description>
       <pubDate>Mon, 25 Mar 2019 03:42:30 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/03/24/yellow-lichen-at-40x/</guid>
-      <description> </description>
+      <description>Right click on the image and click &amp;ldquo;Open image in new tab&amp;rdquo; to see it with the correct proportions.</description>
     </item>
     
     <item>
@@ -650,7 +649,7 @@ https://www.visca.com/regexdict/</description>
       <pubDate>Mon, 25 Mar 2019 03:25:38 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/03/24/lichen-at-40x/</guid>
-      <description> </description>
+      <description>Right click on the image and click &amp;ldquo;Open image in new tab&amp;rdquo; to see it with the correct proportions.</description>
     </item>
     
     <item>
@@ -659,7 +658,7 @@ https://www.visca.com/regexdict/</description>
       <pubDate>Sun, 24 Mar 2019 02:19:02 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/03/23/decomposed-leaf-at-40x/</guid>
-      <description> </description>
+      <description>Right click on the image and click &amp;ldquo;Open image in new tab&amp;rdquo; to see it with the correct proportions.</description>
     </item>
     
     <item>
@@ -677,7 +676,7 @@ https://www.visca.com/regexdict/</description>
       <pubDate>Sat, 23 Mar 2019 00:21:21 +0000</pubDate>
       
       <guid>https://tomtheapprenticeward.github.io/index.php/2019/03/22/dried-catnip-at-40x/</guid>
-      <description> </description>
+      <description>Right click on the image and click &amp;ldquo;Open image in new tab&amp;rdquo; to see it with the correct proportions.</description>
     </item>
     
   </channel>

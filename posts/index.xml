@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Creative Commons Attribution-ShareAlike 4.0 International License. This site uses Google Analytics.</copyright>
-    <lastBuildDate>Fri, 10 Apr 2020 21:50:04 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2020 21:45:17 -0600</lastBuildDate>
     
 	<atom:link href="https://tomtheapprenticeward.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>fixing the white screen issue on dead island definitive edition on linux</title>
+      <link>https://tomtheapprenticeward.github.io/posts/2020-04-11_2/</link>
+      <pubDate>Sat, 11 Apr 2020 21:45:17 -0600</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/posts/2020-04-11_2/</guid>
+      <description>if you are using the open source AMD drivers and when the game launches it ends up at a white screen, then try following the instuctions here:</description>
+    </item>
+    
+    <item>
+      <title>Mandela</title>
+      <link>https://tomtheapprenticeward.github.io/posts/2020-04-11/</link>
+      <pubDate>Sat, 11 Apr 2020 03:22:53 -0600</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/posts/2020-04-11/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Abstract Wallpapers</title>

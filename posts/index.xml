@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Creative Commons Attribution-ShareAlike 4.0 International License. This site uses Google Analytics.</copyright>
-    <lastBuildDate>Sat, 11 Apr 2020 21:45:17 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 03:05:10 -0600</lastBuildDate>
     
 	<atom:link href="https://tomtheapprenticeward.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>snowflake</title>
+      <link>https://tomtheapprenticeward.github.io/posts/2020-04-13/</link>
+      <pubDate>Mon, 13 Apr 2020 03:05:10 -0600</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/posts/2020-04-13/</guid>
+      <description>image</description>
+    </item>
     
     <item>
       <title>fixing the white screen issue on dead island definitive edition on linux</title>

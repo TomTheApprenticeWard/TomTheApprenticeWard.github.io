@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Creative Commons Attribution-ShareAlike 4.0 International License. This site uses Google Analytics.</copyright>
-    <lastBuildDate>Tue, 14 Apr 2020 23:38:19 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 02:16:27 -0600</lastBuildDate>
     
 	<atom:link href="https://tomtheapprenticeward.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Geometric Images</title>
+      <link>https://tomtheapprenticeward.github.io/posts/2020-04-20/</link>
+      <pubDate>Mon, 20 Apr 2020 02:16:27 -0600</pubDate>
+      
+      <guid>https://tomtheapprenticeward.github.io/posts/2020-04-20/</guid>
+      <description>   2020 04 20
+     </description>
+    </item>
     
     <item>
       <title>Fall</title>

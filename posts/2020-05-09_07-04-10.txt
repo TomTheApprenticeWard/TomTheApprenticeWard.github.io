@@ -1,0 +1,1 @@
+It would be good to be about to get the physical screen dimensions of a device and be able to use that in CSS and other programming languages. This is because then the right UI can be displayed to the viewer. I believe there maybe a way to get the pixel dimensions of a device, but I don't see how that can be reliably linked to the physical screen size.
